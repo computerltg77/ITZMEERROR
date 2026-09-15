@@ -1,0 +1,7 @@
+C:\Users\PONIR\Desktop\ITZMEERROR\bin\Release\net8.0\publish\ITZMEERROR.exe
+C:\Users\PONIR\Desktop\ITZMEERROR\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\PONIR\Desktop\ITZMEERROR\bin\Release\net8.0\publish\appsettings.json
+C:\Users\PONIR\Desktop\ITZMEERROR\bin\Release\net8.0\publish\ITZMEERROR.dll
+C:\Users\PONIR\Desktop\ITZMEERROR\bin\Release\net8.0\publish\ITZMEERROR.deps.json
+C:\Users\PONIR\Desktop\ITZMEERROR\bin\Release\net8.0\publish\ITZMEERROR.runtimeconfig.json
+C:\Users\PONIR\Desktop\ITZMEERROR\bin\Release\net8.0\publish\ITZMEERROR.pdb
